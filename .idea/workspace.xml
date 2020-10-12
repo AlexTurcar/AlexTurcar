@@ -10,8 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ad9b2fc-ee1e-46aa-b6a2-561419e1a4af" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    <list default="true" id="9ad9b2fc-ee1e-46aa-b6a2-561419e1a4af" name="Default Changelist" comment="test">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +40,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\php\www\AlexTurcar\rozvrh" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -47,8 +53,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600878248160</updated>
-      <workItem from="1600878250479" duration="875000" />
+      <workItem from="1600878250479" duration="1713000" />
+      <workItem from="1602523360277" duration="43000" />
+      <workItem from="1602523911772" duration="672000" />
+      <workItem from="1602526340992" duration="96000" />
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1600879258272</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600879258272</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -64,6 +81,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="WindowStateProjectService">
     <state x="787" y="236" key="#PHP" timestamp="1600878596761">
@@ -74,5 +96,21 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="914" y="517" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600878413541" />
+    <state x="982" y="515" key="VCS.ChangelistChooser" timestamp="1602523969495">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="982" y="515" key="VCS.ChangelistChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1602523969495" />
+    <state x="965" y="471" key="VCS.EditChangelistDialog" timestamp="1602523954319">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="965" y="471" key="VCS.EditChangelistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602523954319" />
+    <state x="742" y="274" key="Vcs.Push.Dialog.v2" timestamp="1600879272691">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="742" y="274" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600879272691" />
+    <state x="813" y="290" width="672" height="678" key="search.everywhere.popup" timestamp="1600879268419">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="813" y="290" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600879268419" />
   </component>
 </project>
